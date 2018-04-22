@@ -7,18 +7,26 @@ categories:  RE
 auteur:      f00fc7c8
 ---
 
-===== INFOS ===== 
+===== INFOS =====
+
 Filename                 holidays
+
 File format              PE32
+
 Architecture             x86
+
 Author                   Tzeny 
 
+
 ===== Info =======
+
 The summer vacation is coming! Can you get your flag before it arrives?
+
 ===== End of Info ======
 
 
 ===== HINTS =========
+
 http://lmgtfy.com/?q=romanian+school+summer+holidays
 
 ====== Solve ========
