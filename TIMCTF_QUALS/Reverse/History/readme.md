@@ -10,7 +10,7 @@ auteur:      f00fc7c8
 ===== INFOS ===== 
 
 Filename:                 
-attendance
+history
 
 File format:              
 ELF32
@@ -32,4 +32,4 @@ Unfortunately there's a sentence missing (a bug?). Can you help?
 
 ====== Solve ========
 
-We just took the executable, run it with ida and the flag TIMCTF{l1ttl3_th1ngs_m4k3_b1g_th1ngs_h4pp3n}
+We just took the executable, run it with ida and the flag: timctf{l1ttl3_th1ngs_m4k3_b1g_th1ngs_h4pp3n}
