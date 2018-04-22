@@ -9,13 +9,13 @@ auteur:      f00fc7c8
 
 ===== INFOS ===== 
 
-Filename                 attendance
+Filename:                 attendance
 
-File format              ELF32
+File format:              ELF32
 
-Architecture             x86
+Architecture:             x86
 
-Author                   0xcpu 
+Author:                   0xcpu 
 
 ===== Info =======
 
