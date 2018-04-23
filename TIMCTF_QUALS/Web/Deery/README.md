@@ -66,11 +66,19 @@ Which, if you look carefully, says ```<!-- keep looking... -->```.
 
 Unfortunetly it was just a trap. God damn it. But it's ok i found those scripts after that.
 ```html
-<script src="assets/library/jquery.min.js"></script>
+  <!-- I don't know if we need those files, but we have them here, just in case -->
+  <script src="assets/library/jquery.min.js"></script>
   <script src="components/visibility.js"></script>
   <script src="components/sidebar.js"></script>
   <script src="components/transition.js"></script>
 ```
+Haha, that comment got me the flag because I found the flag in the transition script:
+```
+  // of course that here is the flag, what did you expect?
+  // timctf{Woodland_highschool_rocks_in_2018}
+```
+And here it is!
+  
 
 
 
