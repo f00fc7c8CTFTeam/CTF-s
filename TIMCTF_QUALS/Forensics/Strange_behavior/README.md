@@ -19,10 +19,11 @@ Author                   0xcpu
 
 ===== Info =======
 
+```
  Our physics teacher at every lesson is occupied with something, quite strange.
 Most of the time he's not teaching us anything, just having fun with something else.
-
 We've stolen something from him, now lets see what is he doing!
+```
 
 ===== End of Info ======
 
