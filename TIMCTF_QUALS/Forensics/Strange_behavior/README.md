@@ -31,4 +31,4 @@ We've stolen something from him, now lets see what is he doing!
 
 We used binwalk -e to etratraxtract the files from the challenge, then we looked for the flag into the files, and we found it into an xml file.
 
-Flag: ```timctf{d0nt_f0rg3t_t0_h4v3_fun},the flag was in sharedStrings.xml```
+Flag: ```timctf{d0nt_f0rg3t_t0_h4v3_fun}```, the flag was in sharedStrings.xml
