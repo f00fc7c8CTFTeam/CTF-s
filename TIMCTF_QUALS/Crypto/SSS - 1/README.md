@@ -4,7 +4,7 @@ title:       Timisoara CTF QUALS
 date:        20 Avril 2018
 comments:    true
 categories:  Crypto
-auteur:      p4N1CK
+auteur:      P4UL
 ---
 
 ===== Info =======
@@ -23,3 +23,8 @@ d2385b2d2fd3a6bb597ea041316255869f5c35e7e8490fe5775736805b9023dfd3100bc1e89621af
 
 ===== End of Info ======
 
+======== Solve ========
+
+I converted the numbers from hex to dec, after that i used this [tool](https://www.dcode.fr/lagrange-interpolating-polynomial), after many tries i realised the flag is going to be given by only 2 out of the numbers just like the ```b``` element from the equation ```f(x) = ax+b``` after that we convertet it from dec to hex, and from hex to text. Voilla there was the flag!
+
+```timctf{b4s1C_l4gr4ng3_1NTerP0LatioN}```
