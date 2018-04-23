@@ -17,10 +17,8 @@ Architecture             x86/x64
 Author                   0xcpu 
 
 ===== Info =======
-
 Yes! Our school is invited to a cool competition... now we need to
 prepare and work hard to be among the best! Let's do it!
-
 ===== End of Info ======
 
 
