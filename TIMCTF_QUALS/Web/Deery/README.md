@@ -62,7 +62,7 @@ First, I noticed there is a JS script that won't let me do anything on the site.
       </div>
     </div>
 ```
-Which, if you look carefully, says ```html<!-- keep looking... -->```
+Which, if you look carefully, says ```html <!-- keep looking... -->```
 
 
 
