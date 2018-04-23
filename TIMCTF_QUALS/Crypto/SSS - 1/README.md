@@ -4,7 +4,7 @@ title:       Timisoara CTF QUALS
 date:        20 Avril 2018
 comments:    true
 categories:  Crypto
-auteur:      P4UL
+auteur:      crypt0
 ---
 
 ===== Info =======
