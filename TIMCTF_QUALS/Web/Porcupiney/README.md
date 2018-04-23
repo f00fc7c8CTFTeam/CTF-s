@@ -1,0 +1,1 @@
+well first the challenge says that is something about ssl certificate we check it we whatch at the dns we have seen a different dns address we input it make request with browser than we do the same step at the following address: https://nonononono.woodlandhighschool.xyz/ and at the bottom we see the flag timctf{w00dl4nd_cr1tt3rs_s3cur3_chr1stm4s}
