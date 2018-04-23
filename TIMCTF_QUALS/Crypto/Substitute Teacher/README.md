@@ -15,7 +15,7 @@ auteur:      p4N1CK
 
 ======== Solve ========
 
-So we have a long, Long, LONG text. It is enciphered. After a bit of research I found out this was substitute cipher. Got some information from here: [Substitute cipher](https://en.wikipedia.org/wiki/Substitution_cipher)
+So we have a long, Long, LONG text (Which was actually the Da Vinci's Code book which is awesome btw). It is enciphered. After a bit of research I found out this was substitute cipher. Got some information from here: [Substitute cipher](https://en.wikipedia.org/wiki/Substitution_cipher)
 
 So it began a long way to decipher the text, so I can get the key which is:
 
