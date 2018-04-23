@@ -21,4 +21,12 @@ e = 65537
 c = 56191946659070299323432594589209132754159316947267240359739328886944131258862
 ```
 
-First, i used [factordb.com](factordb.com)
+First, i used [factordb.com](factordb.com), i factorised n which gave me the following factors:
+
+```
+p = 176773485669509339371361332756951225661
+q = 333197218785800427026869958933009188427
+```
+And then i found something to use at:
+[RSA Implementation in Python](http://jhafranco.com/2012/01/29/rsa-implementation-in-python/)
+[Modular Multiplicative Inverse Function in Python](http://stackoverflow.com/questions/4798654/modular-multiplicative-inverse-function-in-python)
