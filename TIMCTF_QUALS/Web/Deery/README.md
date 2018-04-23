@@ -62,7 +62,15 @@ First, I noticed there is a JS script that won't let me do anything on the site.
       </div>
     </div>
 ```
-Which, if you look carefully, says ```html <!-- keep looking... -->```
+Which, if you look carefully, says ```<!-- keep looking... -->```.
+
+Unfortunetly it was just a trap. God damn it. But it's ok i found those scripts after that.
+```html
+<script src="assets/library/jquery.min.js"></script>
+  <script src="components/visibility.js"></script>
+  <script src="components/sidebar.js"></script>
+  <script src="components/transition.js"></script>
+```
 
 
 
