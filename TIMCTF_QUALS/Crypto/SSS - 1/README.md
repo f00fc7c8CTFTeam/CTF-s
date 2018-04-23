@@ -9,7 +9,8 @@ auteur:      p4N1CK
 
 ===== Info =======
 
-```3 math teachers agreed to a common secret password to access the exam answers. Luckily, one of them lost a note that seems related. They also talk all the time about some guy named Lagrange.
+```
+3 math teachers agreed to a common secret password to access the exam answers. Luckily, one of them lost a note that seems related. They also talk all the time about some guy named Lagrange.
 
 NOTE: the coordinates are: 
 
