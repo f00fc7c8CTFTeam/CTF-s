@@ -32,4 +32,4 @@ http://lmgtfy.com/?q=romanian+school+summer+holidays
 ====== Solve ========
 
 We took the executable run it in dotPeek(https://www.jetbrains.com/decompiler/) and we wore presented with the following referenced in decompile.cs
-We then modified the variable password with the date that the summer school vacantion starts in romania, in timestamp format and we get the flag back:
+We then modified the variable password with the date that the summer school vacantion starts in romania, in timestamp format and we get the flag back:timctf{4_V3n17_v4c4nt4_M4r3}
