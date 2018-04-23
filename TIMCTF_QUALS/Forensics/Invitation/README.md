@@ -21,9 +21,7 @@ prepare and work hard to be among the best! Let's do it!
 
 ====== Solve ========
 We recive a pdf as an invitation.We opened it with Text Editor Linux or Notepad from Windows or whatever editor you like, we see the following code snippet:
-```C
-
-void create_PDFWithFormValidation\(\) {
+```void create_PDFWithFormValidation\(\) {
          PDFDocument doc = new PDFDocument\(PDFOne_License.KEY);
          doc.OpenAfterCreate = true;
          doc.MeasurementUnit = PDFMeasurementUnit.Inches;
