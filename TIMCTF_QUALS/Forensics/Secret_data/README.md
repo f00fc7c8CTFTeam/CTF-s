@@ -28,3 +28,4 @@ Author                   Tzeny
 ====== Solve ========
 
 We get a pcap file, with a lot of packets, after some time watching all the packet we get the flag
+timctf{wir3_sh4rk_is_aw3som3}
