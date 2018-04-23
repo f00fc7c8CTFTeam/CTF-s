@@ -31,4 +31,4 @@ Do you remember your origins?
 
 upon runing objdump -D math_exam we see that the password is check in 5 parts of the algorithm, and that we have to reconstruct the flag.
 
-After some time of trial and error we got the flag: timctf{Euclid_w0uld_b3_pr0ud}
+After some time of trial and error we got the flag: ```timctf{Euclid_w0uld_b3_pr0ud}```
