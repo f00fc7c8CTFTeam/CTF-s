@@ -17,7 +17,7 @@ auteur:      p4N1CK
 
 First, I noticed there is a JS script that won't let me do anything on the site. I deactivated the JS from the site, altough in the end wasn't necessary. This lead me however, to Inspect Element (of course that's the first thing you do on a challenge of this type) and I looked down where i saw this in a portion of the html index file:
 
-```
+```html
 <div class="ui vertical stripe segment">
     <div class="ui text container">
       <h3 class="ui header">Now our Critter Christmas can finally happen!</h3>
